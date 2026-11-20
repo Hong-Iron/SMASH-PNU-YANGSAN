@@ -1,0 +1,34 @@
+{
+ "region": "경남 양산시 물금읍",
+ "nameEn": "Pusan National University Yangsan Campus",
+ "added": "2026-10-17",
+ "rank": 123,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DIST",
+   "campus": "동원과학기술대학교",
+   "km": 6.1
+  },
+  {
+   "code": "BUFS",
+   "campus": "부산외국어대학교",
+   "km": 9.3
+  },
+  {
+   "code": "GIMHAE",
+   "campus": "김해대학교",
+   "km": 11.5
+  },
+  {
+   "code": "PNU",
+   "campus": "부산대학교 부산캠퍼스",
+   "km": 12.1
+  },
+  {
+   "code": "CUP",
+   "campus": "부산가톨릭대학교",
+   "km": 12.2
+  }
+ ]
+}
